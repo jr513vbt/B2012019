@@ -1,6 +1,5 @@
 # Môn: CT299 - Lập trình Web
-## Giới thiệu bản thân tôi tên *Nguyễn Thanh Huy*
-## /t /t /t /t /tab MSSV *B2012019*
+## Giới thiệu về bản thân tôi tên *Nguyễn Thanh Huy*, MSSV *B2012019*
 ### Đây là bài tập buổi thực hành số 5
 
 Đây là mẫu `Repository` hỗ trợ báo cáo, từ file **README** mà bạn đang đọc đến các file *BT thực hành khác*.
